@@ -1,0 +1,35 @@
+h1 {font-family: 'League Gothic', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color:cadetblue;
+}
+body{
+    background-color: rgb(19, 30, 97);
+}
+div{
+    text-align: center;
+}
+#circle{
+    border-radius: 50%;
+    width: 600px;
+}
+.indice {
+    font-size: 40px;
+   
+}
+li {color: silver;
+    background-size: contain;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+p {
+    font-family: helvetica;
+    font-size: 25px;
+    color: aliceblue;
+}
+a {
+    color: aliceblue;
+    
+}
