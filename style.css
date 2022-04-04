@@ -5,13 +5,19 @@ h1 {font-family: 'League Gothic', sans-serif;
 }
 body{
     background-color: rgb(19, 30, 97);
+    padding: 3%;
+}
+.pesquisa{
+    font-weight: 700;
 }
 div{
     text-align: center;
 }
 #circle{
     border-radius: 50%;
-    width: 600px;
+    width: 380px;
+    padding: 10px;
+    background-color: black;
 }
 .indice {
     font-size: 40px;
@@ -20,7 +26,7 @@ div{
 li {color: silver;
     background-size: contain;
 }
-h3 {
+ul {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
 }
@@ -32,4 +38,19 @@ p {
 a {
     color: aliceblue;
     
+}
+.bl{
+    height:400px;
+    float: left;
+}
+.desc{
+    height:400px;
+    position:relative ;
+}.al{
+    position: absolute;
+    top: 25%;
+    right: 8%;
+}
+ul li:nth-child(odd){
+    background-color: blueviolet;
 }
