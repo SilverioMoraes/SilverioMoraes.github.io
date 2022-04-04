@@ -7,9 +7,6 @@ body{
     background-color: rgb(19, 30, 97);
     padding: 3%;
 }
-.pesquisa{
-    font-weight: 700;
-}
 div{
     text-align: center;
 }
@@ -42,6 +39,7 @@ a {
 .bl{
     height:400px;
     float: left;
+    position: absolute;
 }
 .desc{
     height:400px;
